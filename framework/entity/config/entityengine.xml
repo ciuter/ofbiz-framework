@@ -138,7 +138,7 @@ access. For a detailed description see the core/docs/entityconfig.html file.
         <read-data reader-name="ext-demo"/>
         <inline-jdbc
                 jdbc-driver="org.postgresql.Driver"
-                jdbc-uri="jdbc:postgresql://127.0.0.1/ofbiz"
+                jdbc-uri="jdbc:postgresql://127.0.0.1/snapshot_intenso_ofbiz"
                 jdbc-username="postgres"
                 jdbc-password="83C1ut#r1mK05"
                 isolation-level="ReadCommitted"
